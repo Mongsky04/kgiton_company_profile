@@ -20,14 +20,19 @@ import serviceIconContainer3 from './service-icon-container-3.svg';
 
 // Industries image
 import industriesImage from './industries-image.png';
+import segmentIndustries1 from './segment-industries-1.png';
 
 // Contact icons
 import contactIcon1 from './contact-icon-1.svg';
 import contactIcon2 from './contact-icon-2.svg';
 import contactIcon3 from './contact-icon-3.svg';
+import contactIconNew1 from './contact-icon-new-1.svg';
+import contactIconNew2 from './contact-icon-new-2.svg';
+import contactIconNew3 from './contact-icon-new-3.svg';
 
 // Footer
 import footer from './footer.svg';
+import footerLogo from './footer-logo.svg';
 
 // Export all images
 export const imgHeroImage = heroImage;
@@ -45,7 +50,12 @@ export const imgServiceIconContainer1 = serviceIconContainer1;
 export const imgServiceIconContainer2 = serviceIconContainer2;
 export const imgServiceIconContainer3 = serviceIconContainer3;
 export const imgIndustriesImage = industriesImage;
+export const imgSegmentIndustries1 = segmentIndustries1;
 export const imgContactIcon1 = contactIcon1;
 export const imgContactIcon2 = contactIcon2;
 export const imgContactIcon3 = contactIcon3;
+export const imgContactIconNew1 = contactIconNew1;
+export const imgContactIconNew2 = contactIconNew2;
+export const imgContactIconNew3 = contactIconNew3;
 export const imgFooter = footer;
+export const imgFooterLogo = footerLogo;
